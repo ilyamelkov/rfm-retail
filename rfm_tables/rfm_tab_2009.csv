@@ -1,0 +1,946 @@
+customer_id;frequency;monetary;recency;R;F;M;RFM;description_eng;label_eng;year
+17819.0;4;1157.1;7;3;1;3;313;recently active, one-time, high CFs;drifting;2009
+18252.0;11;222.77;7;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+18092.0;13;1483.2600000000002;7;3;2;3;323;recently active, rare, high CFs;loyal;2009
+17867.0;17;110.55000000000001;7;3;2;1;321;recently active, rare, low CFs;loyal;2009
+14151.0;22;328.65000000000003;7;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+15856.0;39;2435.8;7;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12835.0;56;526.19;7;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15044.0;62;1172.9;7;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15514.0;79;1375.51;7;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17961.0;140;581.47;7;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13694.0;142;18458.69;7;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12539.0;163;3962.2000000000003;7;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12440.0;2;94.85;8;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13082.0;4;192.18;8;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+18190.0;12;143.22;8;3;2;1;321;recently active, rare, low CFs;loyal;2009
+14293.0;15;662.8;8;3;2;3;323;recently active, rare, high CFs;loyal;2009
+15064.0;16;264.74;8;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13455.0;17;330.55;8;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14063.0;18;2980.4;8;3;2;3;323;recently active, rare, high CFs;loyal;2009
+18251.0;19;2682.96;8;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14841.0;44;1139.1;8;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17969.0;46;406.9;8;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+18102.0;49;28444.54;8;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15911.0;98;765.79;8;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15581.0;149;646.65;8;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15311.0;246;6354.97;8;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17182.0;2;178.5;9;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+14119.0;3;66.48;9;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+14987.0;4;179.1;9;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16282.0;7;216.9;9;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+18051.0;7;535.62;9;3;1;3;313;recently active, one-time, high CFs;drifting;2009
+13111.0;8;152.0;9;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13510.0;8;160.20000000000002;9;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+14819.0;9;23.29;9;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+17888.0;9;55.4;9;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+17675.0;10;573.32;9;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14480.0;15;272.65;9;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+17213.0;20;457.15;9;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13641.0;22;573.16;9;3;2;3;323;recently active, rare, high CFs;loyal;2009
+16525.0;22;1314.89;9;3;2;3;323;recently active, rare, high CFs;loyal;2009
+17696.0;23;465.32;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14032.0;26;548.16;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12682.0;27;675.6;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13408.0;31;1983.44;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15039.0;33;328.92;9;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+13089.0;35;2401.0;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12471.0;71;1898.13;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12748.0;72;1613.1599999999999;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16713.0;87;655.12;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14505.0;124;1142.15;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17377.0;144;1786.95;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14156.0;159;6747.14;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14085.0;160;1596.76;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14606.0;246;1129.82;9;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13542.0;4;34.15;10;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16593.0;6;278.73;10;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+14560.0;8;244.75;10;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+15518.0;12;135.70000000000002;10;3;2;1;321;recently active, rare, low CFs;loyal;2009
+12609.0;12;219.89999999999998;10;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+15841.0;12;519.51;10;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13847.0;16;261.32;10;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14404.0;18;132.11;10;3;2;1;321;recently active, rare, low CFs;loyal;2009
+17624.0;18;266.34000000000003;10;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13871.0;19;361.4;10;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14790.0;21;410.44;10;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14299.0;25;1829.9;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17372.0;28;256.2;10;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+12683.0;28;611.74;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17858.0;31;973.77;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15456.0;35;379.13;10;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+18077.0;35;464.14;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13078.0;40;1835.98;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15358.0;45;739.44;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17412.0;45;868.05;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16011.0;53;448.88;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17211.0;54;600.75;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17085.0;55;367.9;10;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+17231.0;67;464.2;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17865.0;112;2264.09;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17243.0;126;3141.6800000000003;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17851.0;129;1055.48;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17920.0;139;1571.6;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16779.0;148;4739.26;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17841.0;410;2236.92;10;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+18037.0;3;27.65;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+14949.0;3;34.44;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13995.0;3;82.1;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+12422.0;4;58.0;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+15497.0;4;272.0;12;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+13921.0;5;73.35;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16772.0;5;650.7;12;3;1;3;313;recently active, one-time, high CFs;drifting;2009
+16029.0;5;1577.04;12;3;1;3;313;recently active, one-time, high CFs;drifting;2009
+14083.0;6;62.92;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+12708.0;7;106.5;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16592.0;7;147.15;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+15409.0;8;123.45;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+14555.0;8;231.25;12;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+12826.0;8;458.20000000000005;12;3;1;3;313;recently active, one-time, high CFs;drifting;2009
+18036.0;9;22.400000000000002;12;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+17927.0;10;294.0;12;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+17028.0;11;217.31;12;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13781.0;13;233.74;12;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+16296.0;16;305.8;12;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+18071.0;17;271.35;12;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+16222.0;17;371.5;12;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14105.0;17;472.6;12;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14401.0;18;500.23;12;3;2;3;323;recently active, rare, high CFs;loyal;2009
+16210.0;18;1120.82;12;3;2;3;323;recently active, rare, high CFs;loyal;2009
+16746.0;19;470.12;12;3;2;3;323;recently active, rare, high CFs;loyal;2009
+16600.0;20;310.01;12;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+15858.0;24;222.24;12;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+13327.0;27;680.82;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16556.0;28;472.93;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12921.0;34;954.1700000000001;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13468.0;36;665.2099999999999;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13855.0;37;677.25;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12839.0;42;839.64;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15326.0;46;639.32;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17913.0;59;489.84000000000003;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12455.0;72;1329.93;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14031.0;86;3433.17;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14646.0;108;10327.35;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15768.0;184;1705.09;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14911.0;204;6070.34;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14527.0;232;3709.92;12;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14095.0;1;2.95;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+18006.0;2;29.75;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16661.0;2;282.3;13;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+13039.0;3;71.75;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13427.0;5;81.0;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13520.0;5;223.89999999999998;13;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+15270.0;5;281.20000000000005;13;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+18186.0;6;142.38;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13266.0;6;177.5;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16150.0;8;124.7;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13875.0;8;135.09;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+18097.0;9;141.06;13;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16439.0;9;310.70000000000005;13;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+14110.0;9;318.48;13;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+17662.0;9;326.0;13;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+17612.0;10;149.15;13;3;2;1;321;recently active, rare, low CFs;loyal;2009
+15428.0;10;163.59;13;3;2;1;321;recently active, rare, low CFs;loyal;2009
+17631.0;10;170.65;13;3;2;1;321;recently active, rare, low CFs;loyal;2009
+16701.0;11;450.38;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+18061.0;11;522.36;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+17739.0;11;534.36;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13577.0;13;268.9;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14113.0;13;731.35;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14425.0;14;218.01999999999998;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+16019.0;14;664.39;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13798.0;14;761.36;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14051.0;14;954.39;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+17150.0;16;188.8;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13225.0;16;895.4;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13269.0;17;312.84;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+17157.0;17;1385.76;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+12937.0;18;124.72999999999999;13;3;2;1;321;recently active, rare, low CFs;loyal;2009
+16351.0;18;252.0;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+18201.0;18;320.13;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13203.0;19;339.9;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+16945.0;19;399.61;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+16908.0;20;252.59;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13557.0;20;315.40000000000003;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14484.0;20;422.85;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+16139.0;21;398.25;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14422.0;22;355.16;13;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14543.0;22;962.0;13;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13319.0;24;847.52;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13491.0;27;660.58;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15879.0;28;110.14;13;3;3;1;331;recently active, frequent, low CFs;loyal;2009
+17103.0;28;371.38;13;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+17526.0;28;628.62;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+18223.0;29;867.9200000000001;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13777.0;31;6536.44;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15863.0;36;124.85000000000001;13;3;3;1;331;recently active, frequent, low CFs;loyal;2009
+16560.0;37;545.76;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16720.0;40;132.72;13;3;3;1;331;recently active, frequent, low CFs;loyal;2009
+17230.0;41;1782.47;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17576.0;45;466.25;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13077.0;46;516.64;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15194.0;46;1280.16;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13564.0;55;493.99;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14040.0;55;702.97;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13448.0;64;901.22;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17400.0;66;634.98;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15601.0;67;1174.0;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14702.0;75;723.1;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15889.0;78;290.13;13;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+15917.0;88;229.12;13;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+15862.0;92;392.44;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15005.0;94;650.9;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16200.0;169;1590.1;13;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14092.0;3;65.4;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13403.0;3;78.6;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16694.0;3;98.30000000000001;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16197.0;4;117.30000000000001;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16742.0;5;220.07;14;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+13008.0;6;101.2;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+16119.0;6;138.4;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13769.0;8;135.65;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+15184.0;9;94.29;14;3;1;1;311;recently active, one-time, low CFs;drifting;2009
+13047.0;9;232.05;14;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+14055.0;9;274.32;14;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+16569.0;9;332.83;14;3;1;2;312;recently active, one-time, moderate CFs;drifting;2009
+18012.0;10;104.8;14;3;2;1;321;recently active, rare, low CFs;loyal;2009
+17091.0;10;231.8;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13941.0;10;679.1;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13074.0;11;295.6;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14952.0;11;458.1;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+14869.0;12;161.88;14;3;2;1;321;recently active, rare, low CFs;loyal;2009
+15312.0;12;212.35000000000002;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+18144.0;12;414.2;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+16366.0;13;213.65;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+12956.0;13;246.70000000000002;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14329.0;14;211.35000000000002;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+16195.0;14;258.15000000000003;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+13289.0;14;275.25;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+18286.0;14;374.15;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+15577.0;15;97.65;14;3;2;1;321;recently active, rare, low CFs;loyal;2009
+17646.0;15;399.20000000000005;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+17873.0;15;543.96;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+15713.0;16;215.96;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+17469.0;16;230.95999999999998;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+17677.0;16;490.4;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+17402.0;17;118.25;14;3;2;1;321;recently active, rare, low CFs;loyal;2009
+15222.0;17;373.04;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+12586.0;17;377.05;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14732.0;19;414.85;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+17833.0;21;183.39;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+14625.0;22;350.9;14;3;2;2;322;recently active, rare, moderate CFs;loyal;2009
+12747.0;22;817.3;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13831.0;22;931.0600000000001;14;3;2;3;323;recently active, rare, high CFs;loyal;2009
+13178.0;23;376.89;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+14590.0;24;101.81;14;3;3;1;331;recently active, frequent, low CFs;loyal;2009
+13426.0;24;558.17;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12359.0;25;699.84;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13952.0;25;965.93;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13693.0;26;498.25;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+12867.0;29;224.99;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+13999.0;29;594.45;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17189.0;30;381.11;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16987.0;36;236.81;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+15615.0;36;1017.9;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14415.0;38;413.6;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14667.0;38;681.37;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15499.0;39;147.65;14;3;3;1;331;recently active, frequent, low CFs;loyal;2009
+17428.0;40;2390.62;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14966.0;41;304.49;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+14769.0;43;667.69;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17776.0;44;197.3;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+15055.0;46;214.17;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+17988.0;48;172.92;14;3;3;1;331;recently active, frequent, low CFs;loyal;2009
+15984.0;52;1151.08;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15061.0;54;9583.539999999999;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15750.0;55;347.61;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+14540.0;64;509.39;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+15498.0;65;2439.02;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16736.0;66;1252.56;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+17954.0;69;479.17;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+14680.0;78;849.25;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+13097.0;81;1035.68;14;3;3;3;333;recently active, frequent, high CFs;VIP;2009
+16891.0;88;335.34;14;3;3;2;332;recently active, frequent, moderate CFs;loyal;2009
+16605.0;1;60.48;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17262.0;1;169.5;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16308.0;1;960.0;15;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+17572.0;3;48.9;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+12971.0;3;61.45;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15566.0;3;76.0;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13405.0;3;146.45999999999998;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15971.0;3;446.28;15;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+16684.0;3;1535.6;15;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+16098.0;4;114.38999999999999;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16353.0;4;672.0;15;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+18220.0;5;86.15;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13711.0;5;111.65;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17067.0;5;158.7;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13902.0;5;283.56;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+18260.0;6;308.38;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+14607.0;6;1622.6000000000001;15;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+17816.0;7;24.630000000000003;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+14460.0;7;155.34;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15637.0;7;244.18;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+18177.0;7;295.5;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+16858.0;8;139.8;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13756.0;8;169.5;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17095.0;8;251.7;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+13473.0;8;372.24;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+17949.0;8;5317.56;15;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+15394.0;9;180.4;15;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13393.0;9;241.2;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15527.0;9;269.6;15;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+17233.0;10;121.71000000000001;15;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+16158.0;10;155.32;15;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15070.0;10;216.3;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15413.0;10;2725.66;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+15393.0;11;187.84;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13004.0;12;211.79000000000002;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15785.0;12;312.71999999999997;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15078.0;13;349.06;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13162.0;14;722.95;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+13050.0;16;281.95;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14061.0;16;506.18;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+14134.0;16;1006.8199999999999;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+14897.0;17;271.41;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+16554.0;17;334.64;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17251.0;18;283.3;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13495.0;18;636.31;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+13267.0;19;459.04;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+13823.0;20;292.85;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+16749.0;20;1827.18;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+17797.0;21;136.23;15;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+12941.0;21;270.36;15;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14341.0;21;385.62;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+17082.0;22;665.2;15;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+14871.0;23;211.5;15;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+15812.0;25;240.22;15;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+16202.0;26;476.67;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13758.0;28;1025.04;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13599.0;30;793.99;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13635.0;32;632.96;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17368.0;34;145.62;15;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+18168.0;34;408.83;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17625.0;36;442.59000000000003;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16550.0;39;443.7;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17852.0;43;352.31;15;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+15808.0;47;1429.22;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15641.0;48;1072.51;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17596.0;66;392.11;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13680.0;109;1361.0800000000002;15;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14977.0;2;4.63;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15672.0;2;30.450000000000003;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13591.0;2;53.2;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17866.0;4;149.5;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16711.0;4;665.64;16;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+12992.0;6;93.35000000000001;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+12920.0;6;123.30000000000001;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16190.0;8;124.47;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15534.0;8;162.25;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17075.0;9;121.30000000000001;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+12924.0;9;178.3;16;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17318.0;10;113.08;16;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15329.0;10;204.9;16;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13462.0;12;166.78;16;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+16280.0;12;169.55;16;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+13872.0;12;188.4;16;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13093.0;12;1218.27;16;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+16064.0;13;73.56;16;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+18087.0;13;626.16;16;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+15640.0;15;797.8;16;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+15015.0;16;114.75;16;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15420.0;16;229.62;16;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13013.0;17;356.13;16;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15920.0;18;101.59;16;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+17623.0;19;145.2;16;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+14042.0;19;396.58;16;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+15188.0;21;302.93;16;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13000.0;21;351.35;16;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17825.0;21;387.51;16;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+17416.0;22;568.0;16;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+14796.0;24;233.22;16;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+15550.0;24;381.05;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16985.0;25;702.85;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13767.0;25;1631.57;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16769.0;26;325.91;16;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+17012.0;29;302.06;16;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+17965.0;32;227.53;16;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+12613.0;33;636.54;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14062.0;34;2000.42;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15867.0;41;478.4;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+12472.0;46;906.9;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16125.0;52;517.1;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16805.0;55;221.9;16;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+12439.0;55;880.0;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17908.0;58;337.01;16;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+17511.0;60;4963.7300000000005;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13931.0;62;1112.01;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14961.0;70;1647.82;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16327.0;74;508.46;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+12926.0;77;291.67;16;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+17364.0;86;1038.63;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13206.0;135;1950.03;16;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14751.0;1;17.700000000000003;17;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+12664.0;1;80.0;17;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17290.0;3;56.45;17;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15144.0;3;210.0;17;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15944.0;6;430.9;17;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+12600.0;7;347.19;17;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+14466.0;9;96.95;17;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16830.0;9;175.62;17;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16551.0;11;202.98000000000002;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15628.0;12;156.98;17;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+14277.0;13;165.32;17;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+13317.0;13;250.47;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13087.0;14;260.54;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17172.0;14;336.82;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17066.0;17;216.54;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13768.0;17;403.72;17;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+12843.0;19;51.54;17;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15196.0;20;130.65;17;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+17910.0;20;199.35;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+16325.0;20;330.54;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13026.0;21;310.78000000000003;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+16719.0;22;270.2;17;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15850.0;24;82.0;17;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+16442.0;25;105.52;17;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+15562.0;26;353.61;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+15446.0;27;94.83;17;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+14525.0;28;195.92;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+16127.0;29;114.65;17;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+12681.0;29;698.5;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14685.0;30;689.64;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17799.0;31;240.3;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14514.0;32;726.84;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17539.0;33;219.0;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+13735.0;36;432.92;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15860.0;39;277.1;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14161.0;39;469.23;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15751.0;39;489.94;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15503.0;42;91.91;17;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+15169.0;45;328.37;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14898.0;47;534.89;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17802.0;48;291.19;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+16725.0;57;192.03;17;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+16335.0;63;563.41;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17287.0;64;442.71;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16409.0;71;426.9;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17593.0;76;1535.46;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15983.0;77;1100.3899999999999;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16104.0;82;976.56;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16710.0;123;761.3;17;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14191.0;1;15.9;19;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13953.0;1;500.0;19;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+14122.0;2;116.73999999999998;19;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15197.0;3;102.96000000000001;19;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17165.0;5;87.93;19;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17487.0;5;107.9;19;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+18172.0;5;184.20000000000002;19;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15769.0;5;1155.0;19;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+16191.0;6;135.0;19;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13668.0;6;601.8;19;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+17409.0;7;527.67;19;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+15291.0;7;835.5;19;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+16156.0;8;361.90000000000003;19;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+16365.0;10;198.76999999999998;19;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+18268.0;10;251.18;19;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14643.0;14;350.68;19;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13418.0;15;688.52;19;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+16293.0;16;285.95;19;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17293.0;16;376.64;19;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14519.0;17;96.9;19;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+17754.0;19;270.18;19;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14739.0;19;1012.17;19;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+14577.0;21;143.25;19;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+17958.0;26;440.16;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13819.0;26;526.3;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14298.0;27;1191.0;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16952.0;28;181.99;19;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+14895.0;28;1311.99;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16470.0;29;181.38;19;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+17344.0;30;245.74;19;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+12957.0;32;743.25;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+12854.0;38;467.84000000000003;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15898.0;41;266.5;19;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+17860.0;44;216.79;19;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14130.0;51;270.58;19;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+13415.0;64;420.67;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17238.0;71;490.75;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15998.0;129;893.29;19;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17388.0;1;228.96;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+16459.0;2;23.04;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+14942.0;2;27.75;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17027.0;2;139.85000000000002;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+12989.0;3;345.6;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+16596.0;4;65.85;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16748.0;4;78.0;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15032.0;4;845.4;20;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+17351.0;5;14.75;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15465.0;5;270.0;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+16843.0;5;348.18;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15854.0;5;454.8;20;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+14608.0;5;581.22;20;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+15642.0;6;105.78000000000002;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15738.0;6;148.41;20;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15085.0;6;281.04;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+13173.0;7;210.90000000000003;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15805.0;8;335.90000000000003;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15380.0;8;441.62;20;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+15623.0;9;280.2;20;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+14507.0;10;106.35000000000001;20;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+16143.0;10;189.55;20;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15523.0;11;644.0799999999999;20;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+15882.0;12;181.63;20;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+14626.0;12;436.40000000000003;20;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+18276.0;13;179.85000000000002;20;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+13019.0;13;295.0;20;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17603.0;14;289.85;20;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15157.0;15;448.2;20;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+16901.0;16;141.4;20;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+14043.0;18;155.56;20;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+16905.0;19;154.35;20;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+17861.0;19;181.43;20;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15367.0;20;383.15;20;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+13091.0;22;1905.2;20;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+16670.0;24;371.36;20;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+12933.0;27;155.79;20;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+17512.0;27;699.1700000000001;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14099.0;29;292.99;20;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14648.0;34;128.93;20;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+16798.0;35;185.2;20;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+15573.0;39;254.88;20;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+15916.0;39;356.27;20;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14030.0;42;616.6899999999999;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17032.0;42;635.47;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15912.0;45;431.34;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+12979.0;47;461.65000000000003;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+12978.0;50;765.28;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17610.0;59;535.6800000000001;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15719.0;61;459.82;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15494.0;62;851.21;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17884.0;69;369.7;20;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14081.0;113;593.93;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15823.0;113;2761.44;20;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13728.0;1;15.0;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13848.0;1;480.0;21;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+12487.0;2;285.29999999999995;21;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+17929.0;2;392.40000000000003;21;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+17184.0;3;50.55;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13727.0;3;98.10000000000001;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16912.0;4;177.25;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15403.0;5;95.75999999999999;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13770.0;5;165.48000000000002;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+12917.0;5;1077.7;21;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+14171.0;6;135.0;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13672.0;7;130.38;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+14211.0;7;152.4;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17880.0;7;171.6;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13202.0;7;305.2;21;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+14107.0;8;153.18;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13141.0;8;157.5;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13983.0;8;165.75;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16771.0;8;203.3;21;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+16168.0;8;369.0;21;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+12709.0;8;682.24;21;2;1;3;213;asleep, one-time, high CFs;sleeping;2009
+14239.0;9;122.0;21;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+12948.0;9;252.48000000000002;21;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+18065.0;11;212.7;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15209.0;12;161.28;21;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15441.0;13;301.57;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13114.0;14;196.43;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14990.0;14;200.23999999999998;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15302.0;14;272.6;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14295.0;14;490.85;21;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+13498.0;15;295.76;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15077.0;15;685.98;21;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+14710.0;16;57.5;21;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+12712.0;16;274.4;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13825.0;18;108.1;21;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+16186.0;18;338.89;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14291.0;19;327.36;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14135.0;20;1428.72;21;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+16802.0;21;259.11;21;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17296.0;25;270.48;21;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+16705.0;26;1941.52;21;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16755.0;29;150.95;21;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+16709.0;31;985.35;21;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+14080.0;34;340.68;21;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+17449.0;35;273.03;21;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+17043.0;42;323.06;21;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+16782.0;45;174.05;21;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+16395.0;46;214.81;21;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+14593.0;54;355.35;21;2;3;2;232;asleep, frequent, moderate CFs;drifting;2009
+16933.0;62;477.53;21;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13410.0;1;81.12;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+14494.0;1;114.3;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15181.0;1;162.72;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13883.0;2;24.65;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15162.0;2;45.0;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+14285.0;2;151.2;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16013.0;3;221.0;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15369.0;3;312.96;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15093.0;4;85.14;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13576.0;4;220.62;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+15633.0;5;139.69;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15298.0;5;185.4;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+18259.0;5;356.40000000000003;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+18275.0;6;232.24;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+17188.0;6;300.24;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+13571.0;7;70.24000000000001;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+13485.0;7;148.9;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+14735.0;7;239.70000000000002;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+18271.0;8;125.5;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+17268.0;8;155.7;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+16735.0;8;218.04;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+13643.0;8;222.4;22;2;1;2;212;asleep, one-time, moderate CFs;sleeping;2009
+14861.0;9;159.5;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+15674.0;9;171.26;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+18145.0;9;174.68;22;2;1;1;211;asleep, one-time, low CFs;sleeping;2009
+14558.0;10;306.45;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+18002.0;11;37.9;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+18203.0;11;104.08;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+17854.0;11;122.44;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+16204.0;11;190.32999999999998;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14136.0;12;188.5;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+16253.0;12;343.88;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17047.0;13;182.15;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+13025.0;13;323.39;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13382.0;14;230.94;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+13136.0;14;302.5;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14108.0;14;359.0;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+12358.0;14;1331.43;22;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+16892.0;15;97.55;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15924.0;15;102.82;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+15203.0;15;162.14000000000001;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+14679.0;15;338.03;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+12785.0;16;316.05;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+14215.0;17;370.19;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+17155.0;18;228.11;22;2;2;2;222;asleep, rare, moderate CFs;sleeping;2009
+15079.0;18;537.43;22;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+17978.0;19;73.85;22;2;2;1;221;asleep, rare, low CFs;sleeping;2009
+14290.0;19;639.13;22;2;2;3;223;asleep, rare, high CFs;sleeping;2009
+17371.0;25;140.19;22;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+14605.0;27;181.8;22;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+17178.0;28;395.75;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16400.0;28;457.32;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16163.0;28;518.5500000000001;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+15031.0;31;177.82;22;2;3;1;231;asleep, frequent, low CFs;drifting;2009
+16732.0;40;677.49;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+16940.0;41;481.0;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13204.0;52;887.76;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+13081.0;57;1726.83;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17329.0;61;398.36;22;2;3;3;233;asleep, frequent, high CFs;drifting;2009
+17557.0;1;34.0;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17707.0;1;40.8;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17436.0;3;76.5;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13190.0;3;117.6;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12540.0;3;223.0;23;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+17457.0;3;355.38;23;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15421.0;4;72.15;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12523.0;4;74.56;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12913.0;4;462.06;23;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+13070.0;5;97.5;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14408.0;5;181.8;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17990.0;5;332.70000000000005;23;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15694.0;5;357.87;23;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+14828.0;6;528.8;23;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+14512.0;7;133.18;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13984.0;7;229.5;23;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+14003.0;8;113.53999999999999;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+18219.0;8;126.72;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14574.0;9;97.75;23;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14738.0;9;194.05;23;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+13905.0;9;261.38;23;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15115.0;10;135.54;23;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+17044.0;10;888.48;23;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+17270.0;12;154.6;23;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+15260.0;12;271.3;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14307.0;13;221.25;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16124.0;13;224.5;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16018.0;14;153.15;23;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+16768.0;14;201.83999999999997;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17441.0;15;196.75;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+12443.0;15;333.63;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16436.0;16;192.45;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14471.0;17;127.25;23;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13148.0;18;298.85;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16717.0;22;340.79;23;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14955.0;23;133.12;23;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+16702.0;23;184.67000000000002;23;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+15716.0;25;165.37;23;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+14037.0;35;172.93;23;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+17508.0;40;601.0;23;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+18162.0;41;342.31;23;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+14695.0;43;788.23;23;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13234.0;44;209.35;23;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+14670.0;49;164.42;23;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+13042.0;62;482.91;23;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+17850.0;145;3669.44;23;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+15691.0;3;111.4;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16964.0;5;141.85;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13813.0;5;157.6;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17848.0;5;165.3;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14133.0;5;216.1;24;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+14468.0;6;113.28999999999999;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15571.0;8;79.45;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13782.0;8;112.0;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15479.0;8;129.55;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14940.0;8;143.4;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12583.0;8;314.4;24;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+14717.0;9;54.75;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12417.0;9;162.85;24;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17916.0;10;24.21;24;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13890.0;10;173.60000000000002;24;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13211.0;12;117.49;24;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+12975.0;13;229.23000000000002;24;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14454.0;14;102.53;24;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13589.0;14;249.64999999999998;24;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15822.0;14;413.71999999999997;24;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+16773.0;17;96.3;24;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+14123.0;17;291.73;24;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17244.0;18;241.14999999999998;24;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17406.0;18;331.1;24;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15878.0;20;183.4;24;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16277.0;21;181.54;24;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+16485.0;24;457.27;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13373.0;24;536.98;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+16686.0;27;105.78999999999999;24;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+16718.0;27;563.33;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+14479.0;29;327.38;24;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+14896.0;32;228.0;24;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17530.0;34;200.78;24;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+15059.0;38;242.29;24;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17561.0;40;146.38;24;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+14548.0;41;392.92;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+15547.0;42;575.76;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+15555.0;50;892.14;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+14546.0;65;389.77;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13736.0;76;411.93;24;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13199.0;1;138.24;25;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13487.0;2;22.95;25;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14238.0;2;159.1;25;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12820.0;4;148.3;25;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17018.0;4;220.8;25;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15223.0;4;230.2;25;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15057.0;5;92.9;25;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16410.0;5;130.32;25;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14709.0;5;177.7;25;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14867.0;8;185.62;25;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+13021.0;10;190.60999999999999;25;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17115.0;12;326.15;25;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17642.0;15;207.14;25;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15240.0;19;332.8;25;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13958.0;22;646.7;25;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+15484.0;28;590.2;25;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13666.0;1;12.75;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15999.0;1;20.4;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17076.0;2;52.67999999999999;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17389.0;3;437.04;26;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+13807.0;4;65.15;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17421.0;4;130.8;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17151.0;4;231.90000000000003;26;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+16192.0;5;146.7;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15684.0;6;78.95;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17935.0;6;99.5;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13948.0;6;125.65;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17127.0;6;137.95;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16656.0;7;373.74;26;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15109.0;8;231.2;26;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+16883.0;9;82.47;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13733.0;9;131.4;26;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14258.0;10;934.5;26;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+16645.0;11;120.76;26;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+16699.0;12;96.0;26;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+15755.0;12;188.15;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13329.0;12;191.4;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13154.0;12;216.2;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13175.0;13;218.75;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13481.0;13;255.1;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14723.0;14;118.05;26;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+15309.0;15;209.15;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+12510.0;16;408.88;26;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+16451.0;18;257.95;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13679.0;19;121.10000000000001;26;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+12759.0;20;455.46;26;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+12714.0;21;495.0;26;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+13946.0;22;193.4;26;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14564.0;26;664.43;26;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+15382.0;30;1019.6800000000001;26;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+16541.0;31;341.33;26;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+16723.0;33;227.0;26;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+14979.0;34;293.76;26;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+13174.0;37;510.09;26;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+18181.0;46;218.42000000000002;26;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17160.0;47;660.29;26;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+14087.0;48;206.91;26;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+14286.0;57;1231.46;26;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+12970.0;66;171.24;26;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+15965.0;1;6.3;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14662.0;2;43.9;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17035.0;2;54.599999999999994;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17017.0;2;118.79999999999998;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12934.0;2;181.65;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12931.0;2;1268.75;27;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+14347.0;3;40.5;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16159.0;3;61.80000000000001;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14483.0;3;90.0;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14838.0;3;105.2;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17940.0;3;3378.0;27;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+17209.0;4;43.2;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16301.0;4;74.45;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14967.0;4;231.15;27;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+18229.0;4;381.0;27;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+16558.0;5;191.4;27;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+17414.0;5;239.68;27;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+17314.0;6;118.8;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15953.0;6;127.4;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16497.0;7;109.5;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17581.0;7;148.20000000000002;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13416.0;7;228.3;27;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15482.0;7;325.08000000000004;27;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+13085.0;8;400.2;27;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+14958.0;9;137.15;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13979.0;9;139.43;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14915.0;9;168.65;27;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13531.0;10;218.7;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14644.0;10;239.0;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14905.0;11;151.3;27;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13753.0;11;383.4;27;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+13208.0;12;42.57;27;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+17343.0;12;197.3;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15255.0;12;245.44;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16722.0;12;314.73;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13611.0;13;183.28;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+12577.0;13;210.55;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16003.0;13;234.45000000000002;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15884.0;13;236.70000000000002;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13993.0;13;282.1;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14057.0;14;103.59;27;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13037.0;14;247.20000000000002;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15658.0;15;294.65;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17679.0;15;441.59999999999997;27;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+14713.0;16;124.99000000000001;27;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+17069.0;16;283.1;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16612.0;16;355.15;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14771.0;17;250.56;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14755.0;17;347.75;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13786.0;18;610.59;27;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+12779.0;19;298.26;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17411.0;19;344.40000000000003;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13800.0;19;478.7;27;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+15179.0;19;491.85;27;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+17465.0;20;371.62;27;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14750.0;22;72.63;27;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+17322.0;24;102.0;27;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+17764.0;25;170.3;27;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+17853.0;26;564.3;27;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+17432.0;31;126.8;27;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+16791.0;31;204.12;27;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+16918.0;32;182.77;27;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+12872.0;32;233.12;27;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+13895.0;41;813.3;27;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+17271.0;42;181.12;27;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+12949.0;52;1433.18;27;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+14159.0;55;201.5;27;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+15466.0;59;487.39;27;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13001.0;63;520.48;27;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+17193.0;1;45.0;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14302.0;1;82.80000000000001;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12435.0;1;1008.0;28;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+16467.0;2;131.12;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14894.0;2;168.9;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14000.0;2;192.0;28;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+15287.0;3;47.7;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17606.0;3;48.00000000000001;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15833.0;3;48.300000000000004;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13654.0;3;70.5;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12842.0;3;397.20000000000005;28;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+17809.0;3;603.9000000000001;28;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+12980.0;3;754.2;28;1;1;3;113;active long time ago, one-time, high CFs;outflow;2009
+15759.0;4;125.73;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13457.0;6;112.5;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14799.0;7;136.2;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16126.0;7;142.75;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+18001.0;8;100.55;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17909.0;8;110.05;28;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13740.0;10;167.5;28;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+17087.0;10;178.53;28;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+14440.0;11;844.59;28;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+14467.0;12;72.15;28;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+17476.0;12;198.65;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16233.0;12;241.2;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16700.0;13;227.4;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15794.0;13;660.0;28;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+15602.0;15;228.6;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16823.0;16;170.0;28;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+15680.0;16;247.9;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14653.0;16;287.34;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17768.0;17;256.35;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+14831.0;17;404.6;28;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+14980.0;18;94.28;28;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13313.0;18;306.14;28;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+18108.0;19;380.45;28;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+12437.0;19;434.88;28;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+17716.0;22;390.90000000000003;28;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+16086.0;26;274.05;28;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+16131.0;26;737.37;28;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+16797.0;29;118.1;28;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+15989.0;31;116.0;28;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+15353.0;31;195.14;28;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17019.0;35;162.81;28;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+17818.0;36;106.7;28;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+14396.0;36;351.5;28;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17660.0;44;163.47;28;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+14549.0;45;268.02;28;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17998.0;45;294.79;28;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+14204.0;47;319.96999999999997;28;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+13623.0;54;522.4;28;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+14669.0;60;579.5600000000001;28;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+15542.0;106;412.32;28;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13585.0;1;12.75;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13381.0;1;17.4;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+14865.0;1;31.200000000000003;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12362.0;1;130.0;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+12636.0;1;141.0;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15793.0;3;215.26;29;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+17246.0;4;23.48;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15662.0;4;105.85;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+16321.0;6;110.30000000000001;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+17742.0;6;187.35;29;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+16563.0;6;337.1;29;1;1;2;112;active long time ago, one-time, moderate CFs;outflow;2009
+17056.0;7;124.85000000000001;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15712.0;7;146.8;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13748.0;7;173.1;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+13648.0;9;144.59;29;1;1;1;111;active long time ago, one-time, low CFs;outflow;2009
+15945.0;10;124.83000000000001;29;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+16167.0;10;349.74;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+12490.0;12;411.24;29;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+17592.0;13;148.3;29;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+16763.0;13;207.35;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13394.0;14;199.86;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13590.0;14;230.18;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15265.0;14;243.89;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+16887.0;15;89.36;29;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+17519.0;15;227.94;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+13442.0;16;198.0;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+15485.0;16;729.84;29;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+14478.0;17;277.33;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17063.0;20;175.2;29;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+12533.0;20;475.4;29;1;2;3;123;active long time ago, rare, high CFs;risk of outflow;2009
+16329.0;21;105.20000000000002;29;1;2;1;121;active long time ago, rare, low CFs;risk of outflow;2009
+13110.0;21;311.33;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+12836.0;22;273.67;29;1;2;2;122;active long time ago, rare, moderate CFs;risk of outflow;2009
+17191.0;23;158.48000000000002;29;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+15362.0;23;310.75;29;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+15051.0;24;443.67;29;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+14654.0;25;218.16;29;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17345.0;26;326.01;29;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
+17804.0;27;97.15;29;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+15967.0;27;147.21;29;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+17700.0;31;497.83000000000004;29;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+16620.0;39;623.8;29;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+17984.0;40;181.49;29;1;3;1;131;active long time ago, frequent, low CFs;risk of outflow;2009
+12758.0;42;1191.25;29;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+13526.0;44;1182.0;29;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+17611.0;67;393.84000000000003;29;1;3;3;133;active long time ago, frequent, high CFs;risk of outflow;2009
+16393.0;91;259.9;29;1;3;2;132;active long time ago, frequent, moderate CFs;risk of outflow;2009
